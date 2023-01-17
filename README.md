@@ -15,7 +15,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Gosto muito de estudar e está sempre atualizado. Entre em contato comigo por meio dos links abaixo.
  
 <div>  
   <a href = "mailto:leo.porto.lpm@hotmail.com"><img src="https://img.shields.io/badge/-hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
