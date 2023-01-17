@@ -1,8 +1,8 @@
-## Bem-vindo(a) ao perfil do Léo Porto Maranhão 😁
+## Olá, seja bem-vindo(a), me chamo Léo Porto, mais conhecido como Leozinho 😁
 
  <div>
    <a href="https://github.com/LeozinhoPortoM">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeozinhoPortoM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeozinhoPortoM&show_icons=true&theme=tokyonight&include_all_commits=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeozinhoPortoM&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
@@ -18,8 +18,8 @@
   ### Gosto muito de estudar e está sempre atualizado. Entre em contato comigo por meio dos links abaixo.
  
 <div>  
-  <a href = "mailto:leo.porto.lpm@hotmail.com"><img src="https://img.shields.io/badge/-hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leoportomaranhao-fullstack/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+  <a href = "mailto:leo.porto.lpm@hotmail.com"><img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leoportomaranhao-fullstack/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/fnUtEG6ZaS" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
 </div>
